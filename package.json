@@ -1,0 +1,15 @@
+{
+  "name": "@testoptimal/mbt",
+  "version": "1.0.0",
+  "description": "TestOptimal Model-Based Testing (MBT)",
+  "main": "TOServer.js",
+  "repository": "testoptimal/mbt",
+  "keywords": [
+    "node.js",
+    "MBT",
+    "Testing"
+  ],
+  "author": "yxl01",
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
