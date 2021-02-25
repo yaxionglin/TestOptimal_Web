@@ -1,0 +1,9 @@
+	edit package.json to increment version
+	run following command in Command window in project folder:
+		npm publish --access=public
+	npm repo: https://www.npmjs.com/package/@testoptimal/mbt, login yxl01, pwd: xxxx
+	
+	initial setup:
+		install node.js
+		npm adduser
+		
